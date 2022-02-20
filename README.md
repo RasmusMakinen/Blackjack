@@ -1,5 +1,15 @@
-Blackjack harjoitustyön ohje
+<h2>Blackjack</h2>
+Command line Blackjack game with a twist
 
+
+<h2>What I learned</h2>
+<ul>
+  <li>Using JSON in Python</li>
+  <li>Python basics</li>
+  
+</ul>
+
+<h3>Instructions and rules (in Finnish)</h3>
 
 Kyseessä on perinteinen Blackjack peli. Pelin tavoitteena on saada korttien summaksi 21 tai päästä mahdollisimman lähelle sitä. Pelaat Dealeriä vastaan. Jos pääset lähemmäs 21 kuin dealer tai saat 21 voitat. Pelissä on viisi kierrosta aikaa kerätä mahdollisimman paljon rahaa.  Jokaisella kierroksella voi panokseksi asettaa maksimissaan puolet sen hetkisistä rahoista. Alussa rahaa on 500€
 Korttien arvot: numerokortit ovat itsensä arvoisia, kuvakortit 10 ja ässä on 1 tai 11 riippuen kumpi vie lähemmäs 21
